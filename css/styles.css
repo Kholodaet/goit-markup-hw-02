@@ -3,17 +3,17 @@ body {
   color: #434455;
   background-color: #ffffff;
   font-size: 16px;
-  font-style: normal;
+
   font-weight: 400;
-  line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .webstudio {
   font-size: 18px;
   text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  height: 24px;
+
   line-height: 1.17;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -36,31 +36,7 @@ body {
   color: #404bbf;
 }
 
-.portfolio {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.portfolio:hover,
-.portfolio:focus {
-  color: #404bbf;
-}
-.contacts {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.contacts:hover,
-.contacts:focus {
-  color: #404bbf;
-}
-
-address {
+.address {
   font-style: normal;
 }
 .mail {
